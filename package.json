@@ -1,5 +1,5 @@
 {
-  "name": "litecore-build",
+  "name": "khcore-build",
   "version": "0.5.5",
   "description": "A helper for common tasks to build litecore modules'",
   "main": "index.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/litecoin-project/litecore-build"
+    "url": "git://github.com/inmean/khcore-build"
   },
   "keywords": [
-    "litecore"
+    "khcore"
   ],
   "contributors": [
+    {
+      "name": "In Mean",
+      "email": "inmean@khmercrypto.com"
+    },
     {
       "name": "Charlie Lee",
       "email": "coblee@litecoin.org"
@@ -37,9 +41,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litecoin-project/litecore-build/issues"
+    "url": "https://github.com/inmean/khcore-build/issues"
   },
-  "homepage": "https://github.com/litecoin-project/litecore-build",
+  "homepage": "https://github.com/inmean/khcore-build",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
